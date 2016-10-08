@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="ga_sessionTimeout">300</integer>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!-- The screen names that will appear in reports 
+    <screenName name="com.android.calendar.agenda.AgendaFragment">AgendaFragment</screenName>
+    <screenName name="com.android.calendar.DayFragment">DayFragment</screenName>
+    <screenName name="com.android.calendar.month.MonthByWeekFragment">MonthByWeekFragment</screenName>
+    <screenName name="com.android.calendar.year.YearViewPagerFragment">YearViewPagerFragment</screenName>-->
+
+    <string name="ga_trackingId">UA-40483993-3</string>
+
+</resources>
